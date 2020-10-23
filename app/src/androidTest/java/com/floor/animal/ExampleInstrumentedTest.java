@@ -1,4 +1,4 @@
-package com.example.animal;
+package com.floor.animal;
 
 import android.content.Context;
 

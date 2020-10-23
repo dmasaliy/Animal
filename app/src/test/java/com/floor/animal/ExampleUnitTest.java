@@ -1,4 +1,4 @@
-package com.example.animal;
+package com.floor.animal;
 
 import org.junit.Test;
 
